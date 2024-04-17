@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    android:background="@color/white"
+    tools:context=".Instructions">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:text="How to Stand"
+        android:fontFamily="@font/adamina"
+        android:textColor="#012E39"
+        android:textSize="28dp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/gifImageView"
+        android:layout_marginBottom="100dp"
+        android:src="@drawable/video">
+
+    </pl.droidsonroids.gif.GifImageView>
+
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="500dp"
+        android:layout_height="87dp"
+        android:layout_marginTop="460dp"
+        android:fontFamily="@font/adamina"
+        android:text=" I have read the instructions"
+        android:textColor="#012E39"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="115dp"
+        tools:layout_editor_absoluteY="460dp" />
+
+    <android.widget.Button
+        android:id="@+id/camerabtn"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="570dp"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/buttonbackground"
+        android:fontFamily="@font/raleway"
+        android:text="OPEN CAMERA"
+        android:textColor="@color/white"
+        android:textSize="15sp"
+        android:textStyle="bold">
+
+    </android.widget.Button>
+
+
+</RelativeLayout>
