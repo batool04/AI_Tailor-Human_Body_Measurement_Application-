@@ -20,5 +20,5 @@ RunModel.py: A script that integrates the HMR model into the workflow.
 main.py: The main script that orchestrates the segmentation, 3D construction, and measurement extraction.
 
 # Acknowledgments
-https://github.com/farazBhatti/Human-Body-Measurements-using-Computer-Vision
+[HMR](https://github.com/akanazawa/hmr?tab=readme-ov-file)
 
