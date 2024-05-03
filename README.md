@@ -24,6 +24,18 @@ main.py: The main script that orchestrates the segmentation, 3D construction, an
 
 [3D constrcution](https://drive.google.com/drive/folders/1VTr73CjZs5wEYrGgWJpeduQ5-cxmvtGj?usp=drive_link)
 
+
+# Mobile Application interface:
+The front page of the AI Tailor app features a visually engaging and dynamic element where the AI Tailor logo gracefully slides from the lower part of the screen to the upper part. This animation adds an element of movement and interactivity to the app's user interface, enhancing the overall user experience.
+
+The initial page of our mobile application serves as a user profile setup, aiming to collect essential information for calculating body measurements. This section requires users to input their height, weight, gender, and waist measurements. The gathered data will be utilized to generate accurate and personalized body measurements, facilitating the app's functionalities and enhancing the user experience.
+
+Once the user agrees to the instructions, the camera function of the app will be opened, allowing the user to take a picture.
+
+The last page of the mobile application will display the measurements of the user on the screen.
+
+
+
 # Acknowledgments
 [HMR](https://github.com/akanazawa/hmr?tab=readme-ov-file)
 
