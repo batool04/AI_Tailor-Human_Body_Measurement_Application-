@@ -20,8 +20,8 @@ RunModel.py: A script that integrates the HMR model into the workflow.
 main.py: The main script that orchestrates the segmentation, 3D construction, and measurement extraction.
 
 # Pre-trained Models:
-[Body_Segmentation(DeepLabV3)] (https://drive.google.com/drive/folders/1SNrbsXGBQuWTUebUmPMAerbsa1mKsjZB?usp=drive_link)
-[3D constrcution] (https://drive.google.com/drive/folders/1VTr73CjZs5wEYrGgWJpeduQ5-cxmvtGj?usp=drive_link)
+[Body_Segmentation(DeepLabV3)](https://drive.google.com/drive/folders/1SNrbsXGBQuWTUebUmPMAerbsa1mKsjZB?usp=drive_link)
+[3D constrcution](https://drive.google.com/drive/folders/1VTr73CjZs5wEYrGgWJpeduQ5-cxmvtGj?usp=drive_link)
 
 # Acknowledgments
 [HMR](https://github.com/akanazawa/hmr?tab=readme-ov-file)
