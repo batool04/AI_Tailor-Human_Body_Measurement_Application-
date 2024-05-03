@@ -27,3 +27,5 @@ main.py: The main script that orchestrates the segmentation, 3D construction, an
 # Acknowledgments
 [HMR](https://github.com/akanazawa/hmr?tab=readme-ov-file)
 
+[Body_Measurements](Human-Body-Measurements-using-Computer-Vision)
+
