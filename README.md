@@ -32,7 +32,7 @@ The front page of the AI Tailor app features a visually engaging and dynamic ele
 
 The initial page of our mobile application serves as a user profile setup, aiming to collect essential information for calculating body measurements. This section requires users to input their height, weight, gender, and waist measurements. The gathered data will be utilized to generate accurate and personalized body measurements, facilitating the app's functionalities and enhancing the user experience.
 
-![Second_Page](Images/mobile_application2.PNG)
+![Second_Page](Images/mobile_application 2.PNG)
 
 Once the user agrees to the instructions, the camera function of the app will be opened, allowing the user to take a picture.
 
